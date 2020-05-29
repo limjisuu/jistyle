@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jistyle/static/css/main.34de6062.chunk.css",
+    "main.js": "/jistyle/static/js/main.bdcbf6a3.chunk.js",
+    "main.js.map": "/jistyle/static/js/main.bdcbf6a3.chunk.js.map",
+    "runtime-main.js": "/jistyle/static/js/runtime-main.a5c61e06.js",
+    "runtime-main.js.map": "/jistyle/static/js/runtime-main.a5c61e06.js.map",
+    "static/js/2.666db0c5.chunk.js": "/jistyle/static/js/2.666db0c5.chunk.js",
+    "static/js/2.666db0c5.chunk.js.map": "/jistyle/static/js/2.666db0c5.chunk.js.map",
+    "index.html": "/jistyle/index.html",
+    "precache-manifest.3cc95d7f86e327a96c1e63fd5e10413d.js": "/jistyle/precache-manifest.3cc95d7f86e327a96c1e63fd5e10413d.js",
+    "service-worker.js": "/jistyle/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/jistyle/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.666db0c5.chunk.js.LICENSE.txt": "/jistyle/static/js/2.666db0c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c61e06.js",
+    "static/js/2.666db0c5.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.bdcbf6a3.chunk.js"
+  ]
+}
