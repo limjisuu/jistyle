@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26b841da260a546677204cf12be6cdf1",
+    "revision": "2f0020c3c742e162a145b7572f1e49a3",
     "url": "/jistyle/index.html"
   },
   {
-    "revision": "202a8afae5b7c9195702",
+    "revision": "bedcf4f4b3883e093b05",
     "url": "/jistyle/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jistyle/static/js/2.666db0c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "202a8afae5b7c9195702",
-    "url": "/jistyle/static/js/main.bdcbf6a3.chunk.js"
+    "revision": "bedcf4f4b3883e093b05",
+    "url": "/jistyle/static/js/main.0f6cf84f.chunk.js"
   },
   {
     "revision": "5aa86e32d4f1e3041a8c",
