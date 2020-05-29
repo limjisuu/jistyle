@@ -16,9 +16,7 @@ function App() {
       <CardContainer>
         <Card
           rank={"HOT"}
-          image={
-            "https:image-notepet.akamaized.net/resize/620x-/seimage/20191104%2F37e8c0695e528ba8e32577e6c71221d7.jpg"
-          }
+          image={"https://www.sta1.com/_nuxt/img/132b9d9.png"}
         />
         <Card
           rank={"HOT"}
